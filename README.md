@@ -1,0 +1,1 @@
+# examples-for-open-search-lambda
